@@ -1,0 +1,781 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap');
+
+
+
+
+* {
+
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+
+
+
+}
+
+
+
+.header {
+display: flex;
+justify-content: space-around;
+margin-top: 55px;
+
+
+}
+
+header nav div a {
+
+    margin: 10px;
+    text-decoration: none;
+    color: #242E52;
+    
+
+}
+
+
+
+ header nav div button {
+
+    width: 134px;
+    height: 44px;
+    border-radius: 50px;
+    background-color: #8B48BF;
+    color: white;
+
+
+ }
+
+ a{
+    text-decoration: none;
+    color: white;
+ }
+
+   .ahivamos{
+
+    display: flex;
+    margin-top: 75px;
+    justify-content: space-around;
+    font-family: 'Be Vietnam Pro', sans-serif;
+
+   }
+
+   div .organizando {
+    margin-top: 120px;
+    width: 439px;
+
+
+   }
+
+   div section h1 {
+    font-size: 40px;
+    color:  #232C50;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin-bottom: 15px;
+   }
+
+   
+   .rojo{
+    margin-top: 20px;
+    width: 280px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    
+   }
+
+   div section button{
+
+    margin-top: 20px;
+    width: 134px;
+    height: 44px;
+    border-radius: 50px;
+    background-color: #8B48BF;
+    color: white;
+    
+
+
+   }
+
+.final {
+    color:  #232851;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 27px;
+    display: flex;
+    justify-content: space-around;
+   
+    
+
+}
+
+.izquierda{
+
+width: 30vw;
+
+
+}
+
+.izquierda div{
+
+    width: 300px;
+   
+}
+
+
+
+.izquierda h3{
+    font-size: 36px;
+  
+    
+    width: 370px;
+}
+
+.home{
+
+display: flex;
+justify-content: space-around;
+
+
+}
+
+.voltear article{
+
+    background-color: #F5F5F5;
+}
+
+.voltear {
+
+    align-items: center;        
+    display: flex;
+    flex-direction: column;
+}
+
+
+.voltear h3{
+
+font-size:39.21px;
+
+}
+
+.voltear span img{
+
+    font-size: 30px;
+     height: 70px;
+     
+     align-items: center;
+}
+
+
+.voltear div p{
+
+width: 330px;
+
+}
+
+
+.des p{
+
+color: #B9B9C1;
+
+}
+
+.movil p{
+    color: #B9B9C1;
+
+}
+
+.derecha{
+
+    width: 25vw;
+
+}
+
+.derecha button{
+
+    position: absolute;
+    color: white;
+    margin-left: -100px ;
+    margin-top: 7px;
+    width: 65px;
+    height: 40px;
+    border: solid 0px;
+}
+
+.derecha div h3{
+
+
+margin: 15px;
+margin-left: 40px;
+
+}
+
+.derecha p{
+
+    color: #B3B2B7;
+}
+
+.voltear article{
+
+    display: flex;
+    
+
+}
+
+.miprimerdiv a{
+
+
+}
+
+article div{
+
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section h3{
+
+margin: 100px;
+
+}
+
+.botonabajo{
+
+    width: 134px;
+    height: 44px;
+    border-radius: 50px;
+    background-color: #8B48BF;
+    color: white;
+    margin-top: 130px;
+
+
+}
+
+.botonfooter{
+
+    width: 134px;
+    height: 44px;
+    border-radius: 50px;
+    background-color:white; 
+    color: #8B48BF;
+    position: absolute;
+    margin-left: 1000px;
+   margin-top: 70px;
+
+
+}
+
+.partefinal{
+display: flex;
+justify-content:space-around;
+height: 224px;
+background-color: #8B48BF;
+margin-top: 240px;
+
+
+
+}
+
+.partefinal h2{
+
+width: 500px;
+font-size: 40px;
+margin-right: 900px;
+color: white;
+align-self: center;
+}
+
+
+.partef{
+
+    height: 200px;
+    background-color:#1E1E26;
+    display:flex;
+    justify-content: space-around;
+    
+   
+
+}
+
+.hecho1 span img{
+
+    margin-bottom: 60px;
+}
+
+
+.hecho1{
+    height: 90px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    position: relative ;
+    margin-top: 60px;
+
+}
+
+.iconos{
+color: #FFFFFF;
+
+word-spacing: 20px;
+
+}
+
+.hecho2{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 70%;
+    align-self: center;
+    color: #FFFFFF;
+
+}
+
+.hecho3{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: #FFFFFF;
+    height: 50%;
+    align-self: center;
+}
+
+
+.hecho4{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 50px;
+    
+
+}
+
+.hecho4 input{
+
+border-radius: 50px;
+
+width: 201px;
+height: 44px;
+color: #A0A0A0;
+
+}
+
+.hecho4 button{
+
+width: 63px;
+height: 42px;
+background-color: #8B48BF;
+color: #FFFFFF;
+border-radius: 50px;
+
+
+}
+
+
+.barra{
+    display: none;
+
+}
+
+.miulti{
+    display: flex;
+    color: #FFFFFF;
+    align-items: flex-end;
+
+}
+
+.foote{
+    background-color: #1E1E26;
+    display: flex;
+    justify-content: space-evenly;
+    height: 247px;
+}
+.contenedorlogoyrsfooter{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    
+}
+.containerRedesFooter{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+.Redes{
+    color: #FFFFFF;
+    width: 153.89px;
+    height: 22.05px;
+
+}
+.divNavFinal{
+    width: auto;
+    height: auto;
+    justify-content: space-around;
+    color: #FFFFFF;
+    text-decoration: none;
+
+
+}
+.navFinal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 15px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 392.73px;
+    height: 141.14px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+.divFormFooter{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Copyright{
+    padding-top: 200px;
+}
+
+.form input{
+
+    border-radius: 50px;
+    padding: 10px;
+    justify-content: right;
+    
+    }
+
+    div.Copyright{
+        position: relative;
+        right: 220px;
+    }
+
+    .buttonFinal{
+        position: relative;
+        width: 50px;
+        border-radius: 50px;
+        height: 39px;
+        left: 30px;
+        background-color:#8B48BF ;
+        color:#FFFFFF;
+        
+    }
+    
+    .organizandoImagen{
+    width: 480px;
+    }
+    
+    .divNavFinal{
+        width: 480px;
+    }
+    
+    nav.navFinal{
+        position: relative;
+    
+        right: 30px;
+    }
+    
+    .home .derecha div h3{
+        width: 450px;
+    }
+    
+    .izquierda h3{
+        width: 400px;
+        margin-left: -30px;
+       
+
+    }
+
+    .izquierda div{
+    margin-left: -30px;
+
+    }
+
+    
+    
+    .derecha div p{
+        
+        margin-left: -30px;
+        
+    }
+    
+    .hola20{
+    width: 400px;
+    }
+    
+    section.derecha{
+        width: 450px;
+    }
+    
+    .hola20 h3{
+        position: relative;
+        right: 40px;
+    }
+    
+    div.hola20{
+        width: 300px;
+    }
+
+@media (max-width: 480px) {
+
+.miprimerdiv{
+    display: none;
+}
+
+.header div button{
+
+    display: none;
+}
+
+
+.barra{
+
+display: flex;
+
+}
+
+.ahivamos{
+
+flex-direction: column-reverse;
+align-items: center;
+width: 100vw;
+
+}
+
+.organizando{
+
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+   div section h1 {
+    font-size: 40px;
+    color:  #232C50;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin-bottom: 15px;
+    width: 70vw;
+    text-align: center;
+    margin-left: 80px;
+
+
+
+   }
+
+   
+   .rojo{
+    margin-top: 20px;
+    width: 350px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    margin-left: 70px;
+    text-align: center;
+    
+   }
+
+   div section button{
+
+    margin-top: 20px;
+    width: 134px;
+    height: 44px;
+    border-radius: 50px;
+    background-color: #8B48BF;
+    color: white;
+    margin-left: 70px;
+
+}
+
+
+.home{
+    flex-direction: column;
+    align-items: center;
+    width:100vw;
+    justify-content: center;
+
+
+}
+
+.izquierda h3{
+
+    width: 70vw;
+    margin-left: 0px;
+    margin-bottom: 40px;
+
+}
+
+.izquierda div{
+
+    width: 60vw;
+    margin-left: 2px;
+
+}
+
+.derecha{
+    margin-top: 100px;
+    width: 100vw;
+    align-self: center;
+    margin-left: 30px;
+
+
+}
+
+.derecha button{
+
+    position: absolute;
+    color: white;
+    margin-left: 38px;
+    margin-top: 31px;
+    width: 65px;
+    height: 40px;
+    border: solid 0px;
+}
+
+.derecha div h3{
+
+width:100vw ;
+margin: 15px;
+padding-left: 50px;
+margin-top: 30px;
+background-color: #8B48BF4D;
+height: 40px;
+padding-top: 10px;
+text-align: center;
+}
+
+.derecha p{
+
+    color: #B3B2B7;
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 70vw
+}
+
+
+.des{
+display: none;
+
+
+}
+
+
+.voltear h3{
+
+    font-size:40px ;
+}
+
+.movil{
+    
+    margin-top: 30px;
+    flex-direction: column;
+    margin-left: 40px;
+    
+    width: 70vw;
+
+}
+
+
+
+
+
+.movil span{
+font-size: 10px;
+color: #B9B9C1;
+}
+
+
+
+.partefinal{
+    display: flex;
+    flex-direction: column;
+    width: 480px;
+
+  }
+
+  .partefinal h2{   
+    position: relative;
+    margin-right: 150px;
+    width: 480px;
+    padding-left: 130px;
+    font-size: 25px;
+    margin-top: 50px;
+  }
+
+  .partefinal .botonfooter{
+    position: relative;
+    right: 830px;
+  }
+.foote{
+    width: 100%;
+    height: 600px;
+    flex-direction: column-reverse;
+    justify-content: center space-around;
+    align-items: center;
+}
+.Copyright{
+    padding-top: 0px;
+    order: 1;
+}    
+.divFormFooter{
+    order: 4;
+}
+
+.divNavFinal{
+    order: 3;
+    
+}
+.contenedorlogoyrsfooter{
+order: 2;
+flex-direction: column-reverse;
+}
+
+
+  .hecho1{
+    justify-content:left;
+  }
+
+    .hecho2{
+
+        display:flex
+    }
+
+.hecho3{
+
+    display:flex
+}
+
+
+.hecho4{
+    flex-direction: column;
+    height: 2px;
+    width: 2px
+    
+}
+
+.Redes i {
+color: #FFFFFF;
+}
+.Redes{
+    display: flex;
+    width: 100vw;
+    justify-content: space-evenly;
+}
+.containerRedesFooter{
+    text-align: center;
+}
+
+
+
+}
+
